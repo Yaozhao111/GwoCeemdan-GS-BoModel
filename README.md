@@ -1,2 +1,3 @@
 # GwoCeemdan-GS-BoModel
-An automated machine learning framework to model multiple stock price series.
+An automated machine learning framework to model multiple stock price series. Firstly, the grey wolf optimization algorithm is introduced to automatically optimize the key parameters of CEENDAN, and a series of intrinsic mode functions are obtained; Secondly, CNN-LSTM, LSTM, XGBoost, RF and SVR are used as the model selection library, MSE is used as the objective function, and adaptability experiments are carried out for each modal function. At the same time, during model fitting, super parameters are optimized by Bayesian optimization method, and finally the output values of each component are reconstructed to achieve high-precision prediction.
+<img width="727" height="619" alt="image" src="https://github.com/user-attachments/assets/a594fec0-fe2a-409a-8772-dc7928a66203" />
